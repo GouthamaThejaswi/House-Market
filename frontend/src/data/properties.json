@@ -1,0 +1,57 @@
+[{
+  "id":1,
+  "Name":"ACE",
+  "Type":"house",
+"price":12000
+
+},
+{
+  "id":2,
+  "Name":"AEM",
+  "Type":"house",
+"price":12000
+
+},
+{
+  "id":3,
+  "Name":"BARD",
+  "Type":"house",
+"price":12000
+
+},
+{
+  "id":4,
+  "Name":"CAMRO",
+  "Type":"house",
+"price":12000
+
+},
+{
+  "id":5,
+  "Name":"DAS",
+  "Type":"house",
+"price":12000
+
+},
+{
+  "id":6,
+  "Name":"EST",
+  "Type":"house",
+"price":12000
+
+},
+{
+  "id":7,
+  "Name":"REMO",
+  "Type":"house",
+"price":12000
+
+} ,
+{
+  "id":8,
+  "Name":"PARAM",
+  "Type":"house",
+"price":12000
+
+}
+]
