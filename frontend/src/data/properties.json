@@ -1,54 +1,62 @@
 [{
-  "id":1,
+  "id": 1,
+  "SellRent":1,
   "Name":"ACE",
   "Type":"house",
 "price":12000
 
 },
 {
-  "id":2,
+  "id": 2,
+  "SellRent":2,
   "Name":"AEM",
   "Type":"house",
 "price":12000
 
 },
 {
-  "id":3,
+  "id": 3,
+  "SellRent":1,
   "Name":"BARD",
   "Type":"house",
 "price":12000
 
 },
 {
-  "id":4,
+  "id": 4,
+  "SellRent":2,
   "Name":"CAMRO",
   "Type":"house",
 "price":12000
 
 },
 {
-  "id":5,
+  "id": 5,
+  "SellRent":1,
   "Name":"DAS",
   "Type":"house",
 "price":12000
 
 },
 {
-  "id":6,
+  "id": 6,
+  "SellRent":1,
   "Name":"EST",
   "Type":"house",
 "price":12000
 
 },
 {
-  "id":7,
+  "id": 7,
+  "SellRent":2,
   "Name":"REMO",
   "Type":"house",
 "price":12000
 
 } ,
 {
-  "id":8,
+  "id": 8,
+  "SellRent":1,
   "Name":"PARAM",
   "Type":"house",
 "price":12000
